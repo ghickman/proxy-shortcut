@@ -1,4 +1,0 @@
-Regedit4
-
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
-"ProxyEnable"=dword:00000001
